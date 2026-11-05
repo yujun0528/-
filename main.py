@@ -11,7 +11,8 @@ st.set_page_config(
     layout="wide"
 )
 
-API_URL = "https://apis.data.go.kr/1471000/FoodNtrCptnDbInfo03/getFoodNtrCpntDbInq03"
+
+API_URL = "https://apis.data.go.kr/1471000/FoodNtrCpntDbInfo03/getFoodNtrCpntDbInq03"
 DAILY_SODIUM_LIMIT = 2000
 
 
